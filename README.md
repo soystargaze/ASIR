@@ -18,7 +18,7 @@ El repositorio está organizado en diferentes carpetas, cada una correspondiente
 ## Cómo Contribuir
 
 1. **Clonar el Repositorio**: 
-   - Si es tu primera vez, clona el repositorio a tu máquina local usando `git clone`.
+- Si es tu primera vez, clona el repositorio a tu máquina local usando:
 `git clone https://github.com/soystargaze/ASIR.git`
 
 
