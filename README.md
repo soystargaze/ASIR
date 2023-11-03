@@ -6,13 +6,13 @@ Este repositorio ha sido creado con el propósito de almacenar y organizar todas
 
 El repositorio está organizado en diferentes carpetas, cada una correspondiente a una materia en particular. Dentro de cada carpeta, encontrarás subcarpetas con la fecha de la tarea y un breve descriptor del contenido.
 
-`/repo
+/repo
     /materia1
         /fecha_tarea1_descripcion
         /fecha_tarea2_descripcion
     /materia2
         /fecha_tarea1_descripcion
-        /fecha_tarea2_descripcion`
+        /fecha_tarea2_descripcion
 
 
 ## Cómo Contribuir
