@@ -19,20 +19,20 @@ El repositorio está organizado en diferentes carpetas, cada una correspondiente
 
 1. **Clonar el Repositorio**: 
    - Si es tu primera vez, clona el repositorio a tu máquina local usando `git clone`.
-git clone https://github.com/soystargaze/ASIR.git
+`git clone https://github.com/soystargaze/ASIR.git`
 
 
 2. **Crear una Nueva Rama**: 
 - Crea una nueva rama para cada nueva tarea o actualización que desees agregar al repositorio. Usa un nombre descriptivo para tu rama.
-git checkout -b nombre_rama
+`git checkout -b nombre_rama`
 
 
 3. **Agregar y Commit**: 
 - Agrega tus archivos y carpetas a la rama que acabas de crear.
-git add .
+`git add .`
 
 - Realiza un commit con un mensaje descriptivo de los cambios que has realizado.
-git push origin nombre_rama
+`git push origin nombre_rama`
 
 5. **Crear un Pull Request (PR)**:
 - Ve al repositorio en GitHub y crea un nuevo Pull Request desde la rama que acabas de subir.
