@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-21T18:06:23.415Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ATvSCnOWrHzKKlCSRcMS" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-21T18:07:47.843Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="uD7AsW5gEGyLvc1s7Aeh" version="22.1.3" type="github">
   <diagram name="Página-1" id="IAEdC-_NnEa2JzYTUQMX">
     <mxGraphModel dx="2069" dy="831" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -113,25 +113,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pMwjdMIliSxabNnvG3Ax-39" value="número_habitación" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="495" y="230" width="100" height="40" as="geometry" />
+          <mxGeometry x="495" y="200" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pMwjdMIliSxabNnvG3Ax-49" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="pMwjdMIliSxabNnvG3Ax-40" target="pMwjdMIliSxabNnvG3Ax-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pMwjdMIliSxabNnvG3Ax-40" value="código_ingreso" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=4" vertex="1" parent="1">
-          <mxGeometry x="385" y="230" width="100" height="40" as="geometry" />
+          <mxGeometry x="385" y="200" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pMwjdMIliSxabNnvG3Ax-48" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="pMwjdMIliSxabNnvG3Ax-41" target="pMwjdMIliSxabNnvG3Ax-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pMwjdMIliSxabNnvG3Ax-41" value="fecha_ingreso" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="495" y="370" width="100" height="40" as="geometry" />
+          <mxGeometry x="495" y="400" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pMwjdMIliSxabNnvG3Ax-47" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="pMwjdMIliSxabNnvG3Ax-42" target="pMwjdMIliSxabNnvG3Ax-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pMwjdMIliSxabNnvG3Ax-42" value="número_cama" style="ellipse;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="385" y="370" width="100" height="40" as="geometry" />
+          <mxGeometry x="385" y="400" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="pMwjdMIliSxabNnvG3Ax-51" value="Supongo que según&lt;br&gt;la edad podría ser un pediatra&lt;br&gt;o un médico, por eso &lt;br&gt;lo pongo como clave" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-170" y="80" width="170" height="70" as="geometry" />
@@ -144,6 +144,15 @@
         </mxCell>
         <mxCell id="pMwjdMIliSxabNnvG3Ax-54" value="(M:1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="635" y="260" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pMwjdMIliSxabNnvG3Ax-55" value="(1,1)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="215" y="288" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pMwjdMIliSxabNnvG3Ax-56" value="(1,M)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="385" y="288" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="pMwjdMIliSxabNnvG3Ax-57" value="(1:M)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="305" y="258" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
