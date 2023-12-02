@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-02T18:48:56.368Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="djP-9rY9dI3PEugdYDox" version="22.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-02T18:57:38.864Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="g7FiROaM9BLrJZZ6ctz1" version="22.1.5" type="github">
   <diagram name="Página-1" id="aUQhiJRNW4-tM3lH27NO">
     <mxGraphModel dx="2069" dy="2000" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -220,6 +220,9 @@
         <mxCell id="cgoTvjRIrxcL02AYCNGv-122" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cgoTvjRIrxcL02AYCNGv-119" target="cgoTvjRIrxcL02AYCNGv-120">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="cgoTvjRIrxcL02AYCNGv-146" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cgoTvjRIrxcL02AYCNGv-119" target="cgoTvjRIrxcL02AYCNGv-145">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="cgoTvjRIrxcL02AYCNGv-119" value="Líneas_de_venta" style="whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="890" y="740" width="100" height="40" as="geometry" />
         </mxCell>
@@ -255,6 +258,39 @@
         </mxCell>
         <mxCell id="cgoTvjRIrxcL02AYCNGv-130" value="descuento" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="340" y="920" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cgoTvjRIrxcL02AYCNGv-148" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.25;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cgoTvjRIrxcL02AYCNGv-144" target="cgoTvjRIrxcL02AYCNGv-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cgoTvjRIrxcL02AYCNGv-144" value="número_línea_venta" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="690" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cgoTvjRIrxcL02AYCNGv-145" value="número_factura" style="ellipse;whiteSpace=wrap;html=1;align=center;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="740" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cgoTvjRIrxcL02AYCNGv-152" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cgoTvjRIrxcL02AYCNGv-149" target="cgoTvjRIrxcL02AYCNGv-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cgoTvjRIrxcL02AYCNGv-149" value="precio_ventas" style="whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="745" y="930" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cgoTvjRIrxcL02AYCNGv-153" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cgoTvjRIrxcL02AYCNGv-150" target="cgoTvjRIrxcL02AYCNGv-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cgoTvjRIrxcL02AYCNGv-150" value="cantidades_vendidas" style="whiteSpace=wrap;html=1;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="930" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cgoTvjRIrxcL02AYCNGv-151" value="multiplicado por" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;fontFamily=Helvetica;fontSize=11;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="875" y="920" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cgoTvjRIrxcL02AYCNGv-155" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cgoTvjRIrxcL02AYCNGv-154" target="cgoTvjRIrxcL02AYCNGv-119">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cgoTvjRIrxcL02AYCNGv-154" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fillColor=none;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="725" y="900" width="430" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="cgoTvjRIrxcL02AYCNGv-156" value="Importe_de_la_linea" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="725" y="980" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
